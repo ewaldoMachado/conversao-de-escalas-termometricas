@@ -8,7 +8,7 @@ O programa calcula o ponto de ebulição da água em Kelvin e converte para Cels
 ## Como executar
 Certifique-se de ter o **Go** instalado em sua máquina.
 
-[Download Go]("https://go.dev/dl/?utm_source=copilot.com")
+[Download Go](https://go.dev/dl/?utm_source=copilot.com)
 
 ---
 
@@ -26,7 +26,7 @@ Execute o programa:
 ```bash
 go run temp.go
 ```
-Outra alternativa é utilizar o [Go Playground]("https://go.dev/play?utm_source=copilot.com"). Copie e cole o conteúdo do arquivo **temp.go** e click em **Run** para executar o programa.
+Outra alternativa é utilizar o [Go Playground](https://go.dev/play?utm_source=copilot.com). Copie e cole o conteúdo do arquivo **temp.go** e click em **Run** para executar o programa.
 ## Saída esperada
 ```
 O ponto de ebulição da água é 100°C ao nível do mar, em condições normais de pressão atmosférica (1 atm)
